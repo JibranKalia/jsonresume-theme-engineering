@@ -1,0 +1,231 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Jibran Kalia",
+    "label": "Senior Software Engineer",
+    "image": "https://www.gravatar.com/avatar/b56abf6ebceea7aeca4f1c9c486c9b6a?s=1024",
+    "email": "jibran.kalia@hey.com",
+    "phone": "312-217-1046",
+    "url": "https://jibrankalia.com/",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Garland",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "JibranKalia",
+        "url": "https://github.com/JibranKalia"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Jibran Kalia",
+        "url": "https://www.linkedin.com/in/jibran-kalia"
+      },
+      {
+        "network": "Twitter",
+        "username": "JibranKalia",
+        "url": "https://twitter.com/JibranKalia"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Angi",
+      "company": "Angi",
+      "position": "Senior Software Engineer I",
+      "location": "Dallas, TX",
+      "url": "https://angi.com",
+      "startDate": "2024-06",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "ZipRecruiter",
+      "company": "ZipRecruiter",
+      "position": "Senior Software Engineer",
+      "url": "https://www.ziprecruiter.com",
+      "startDate": "2022-07",
+      "endDate": "2024-06",
+      "location": "Dallas, TX",
+      "summary": "Tech Lead for the ZipIntro product, leading development across multiple technology stacks and achieving significant improvements in user metrics and performance.",
+      "highlights": [
+        "Tech Lead for the ZipIntro product, managing multiple apps written in Typescript, Ruby, React, Go and Perl",
+        "Developed the SMS feature for ZipIntro surpassing OKR for adoption and no-show rates",
+        "Launched the Employer Bridge app, aiding in the migration away from the monolith",
+        "Addressed and resolved an ElasticSearch outage and contributed to the knowledge transfer",
+        "Led the redesign and release of the Candidate page, increasing user adoption from under 10% to above 20% for the Stages feature",
+        "Rewrote the my-jobs page in React and Go decreasing initial page load times from 1.57 seconds to 552ms"
+      ]
+    },
+    {
+      "name": "ZipRecruiter",
+      "company": "ZipRecruiter",
+      "position": "Software Engineer III",
+      "url": "https://www.ziprecruiter.com/",
+      "startDate": "2021-03",
+      "endDate": "2022-07",
+      "summary": "Led major revenue-generating initiatives and automation projects.",
+      "highlights": [
+        "Led PriceIncrease 168, projecting a revenue increase of several million dollars",
+        "Implemented the \"Training Provided\" project, projecting over $1 million in first-year revenue",
+        "Developed a tool for automated cookie reviews, saving significant time across teams"
+      ]
+    },
+    {
+      "name": "Prime Trust",
+      "company": "Prime Trust",
+      "position": "Software Engineer IV",
+      "url": "https://www.linkedin.com/company/primetrust",
+      "startDate": "2020-11",
+      "endDate": "2021-02",
+      "location": "Dallas, TX",
+      "summary": "Led development of white-label financial products.",
+      "highlights": [
+        "Lead the creation of our white-label Debit Card issuance API product"
+      ]
+    },
+    {
+      "name": "Prime Trust",
+      "company": "Prime Trust",
+      "position": "Software Engineer III",
+      "url": "https://www.linkedin.com/company/primetrust",
+      "startDate": "2020-03",
+      "endDate": "2020-11",
+      "summary": "Developed core infrastructure and testing improvements.",
+      "highlights": [
+        "Built an error handling system with static codes integrated with API documentation generation",
+        "Built a proof of concept using the Karate test automation tool for integration tests",
+        "Worked on custom web framework built using Ruby, Sequel, Roda and Trailblazer"
+      ]
+    },
+    {
+      "name": "ScaleFactor, Inc.",
+      "company": "ScaleFactor, Inc.",
+      "position": "Software Engineer",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/company/scalefactor",
+      "startDate": "2018-04",
+      "endDate": "2020-02",
+      "summary": "Full-stack engineer developing financial products and integrations.",
+      "highlights": [
+        "Part of a small team that developed Scalefactor Charge Card in 9 months using Ruby on Rails, Redis and Sidekiq",
+        "Designed and implemented major portions of the data architecture for the lending product in Postgres",
+        "Built a major portion of the front-end application using Ember JS, JavaScript (ES6) and SCSS",
+        "Worked on the Ruby gem that interacts with the external Galileo Lending API",
+        "Implemented the front-end and most of the back-end for the Gusto integration",
+        "Created and managed the onboarding flow for new developers",
+        "Worked with AWS technologies including S3, Lambda, EC2, Elastic BeanStalk, ECS and Lex",
+        "Followed Agile Methodology with 1-week sprint cycles"
+      ]
+    },
+    {
+      "name": "Bouquet.ai",
+      "company": "Bouquet.ai",
+      "position": "Software Engineer Intern",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/company/bouquet.ai",
+      "startDate": "2017-10",
+      "endDate": "2018-03",
+      "summary": "Led TypeScript migration and implemented core infrastructure improvements.",
+      "highlights": [
+        "Coordinated the migration of existing codebase from Javascript to Typescript",
+        "Worked extensively in NodeJS (ES6), EJS, HTML, CSS",
+        "Persisted conversation flow data on MongoDB",
+        "Implemented data visualizations using HighCharts",
+        "Implemented logging and alerting via the Elastic Stack (‎Elastic Search, ‎Kibana, ‎Logstash)",
+        "Help set up the code deployment pipeline using Jenkins, Docker, AWS (EC2)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "42 Silicon Valley",
+      "url": "https://www.42network.org/",
+      "area": "Computer Science",
+      "studyType": "Project Based Learning",
+      "startDate": "2016",
+      "endDate": "2017",
+      "score": "",
+      "courses": [],
+      "description": "Project Based, Peer to Peer Computer Science School. Projects are completed with limited access to C Standard Library and a rigorous peer review process."
+    },
+    {
+      "institution": "The University of Texas at Arlington",
+      "url": "https://www.42network.org/",
+      "area": "University Studies",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2013",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Ruby",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Perl"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "",
+      "keywords": [
+        "React.js",
+        "Ember.js",
+        "HTML",
+        "CSS",
+        "SCSS"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "",
+      "keywords": [
+        "Ruby on Rails",
+        "Node.js",
+        "Redis",
+        "Sidekiq"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB",
+        "ElasticSearch"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "Docker",
+        "Jenkins",
+        "ECS",
+        "Lambda",
+        "EC2",
+        "S3",
+        "Elastic Beanstalk"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": []
+}
